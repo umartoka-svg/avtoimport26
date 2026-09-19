@@ -1,0 +1,254 @@
+СПИСОК ИМЁН ФАЙЛОВ ДЛЯ ФОТО
+
+Положите фотографии в эту папку (images) рядом с index.html.
+Имя файла = строка ниже. Формат .jpg
+Пример: images/tank-500-hi4-t.jpg
+
+Если фото нет — в карточке останется рисунок, сайт не сломается.
+Всего моделей: 229
+
+
+=== Китай (70) ===
+li-auto-l6-pro.jpg   —   Li Auto L6 Pro
+li-auto-l7-max.jpg   —   Li Auto L7 Max
+li-auto-l9-ultra.jpg   —   Li Auto L9 Ultra
+zeekr-001-we.jpg   —   Zeekr 001 WE
+zeekr-7x-long.jpg   —   Zeekr 7X Long
+zeekr-009-luxury.jpg   —   Zeekr 009 Luxury
+byd-seal-awd.jpg   —   BYD Seal AWD
+byd-song-plus-dm-i.jpg   —   BYD Song Plus DM-i
+byd-han-ev.jpg   —   BYD Han EV
+byd-tang-dm-p.jpg   —   BYD Tang DM-p
+geely-monjaro-flagship.jpg   —   Geely Monjaro Flagship
+geely-galaxy-e5.jpg   —   Geely Galaxy E5
+geely-preface-2-0t.jpg   —   Geely Preface 2.0T
+chery-tiggo-9-awd.jpg   —   Chery Tiggo 9 AWD
+chery-tiggo-8-pro-max.jpg   —   Chery Tiggo 8 Pro Max
+exeed-rx-flagship.jpg   —   Exeed RX Flagship
+exeed-vx-2-0t.jpg   —   Exeed VX 2.0T
+haval-h9-2-0t.jpg   —   Haval H9 2.0T
+tank-300-2-0t.jpg   —   Tank 300 2.0T
+tank-500-hi4-t.jpg   —   Tank 500 Hi4-T
+tank-700-hi4-t.jpg   —   Tank 700 Hi4-T
+changan-uni-k-2-0t.jpg   —   Changan UNI-K 2.0T
+deepal-s07.jpg   —   Deepal S07
+jetour-traveller-t2.jpg   —   Jetour Traveller T2
+jetour-x70-plus.jpg   —   Jetour X70 Plus
+hongqi-hs5.jpg   —   Hongqi HS5
+hongqi-e-hs9.jpg   —   Hongqi E-HS9
+xiaomi-su7-max.jpg   —   Xiaomi SU7 Max
+voyah-free-318.jpg   —   Voyah Free 318
+avatr-12.jpg   —   Avatr 12
+aito-m7-ultra.jpg   —   Aito M7 Ultra
+lynk-co-08-em-p.jpg   —   Lynk & Co 08 EM-P
+chery-tiggo-7-pro-max.jpg   —   Chery Tiggo 7 Pro Max
+chery-arrizo-8.jpg   —   Chery Arrizo 8
+geely-xingyue-l.jpg   —   Geely Xingyue L
+geely-atlas-2-0t.jpg   —   Geely Atlas 2.0T
+haval-dargo-2-0t.jpg   —   Haval Dargo 2.0T
+haval-h6-gt.jpg   —   Haval H6 GT
+haval-xiaolong-max.jpg   —   Haval Xiaolong Max
+great-wall-poer-2-0d.jpg   —   Great Wall Poer 2.0d
+jac-t9-2-0t.jpg   —   JAC T9 2.0T
+changan-hunter-plus.jpg   —   Changan Hunter Plus
+changan-cs85-coupe.jpg   —   Changan CS85 Coupe
+omoda-c7.jpg   —   Omoda C7
+jaecoo-j8.jpg   —   Jaecoo J8
+jaecoo-j7-phev.jpg   —   Jaecoo J7 PHEV
+jetour-x90-plus.jpg   —   Jetour X90 Plus
+jetour-dashing.jpg   —   Jetour Dashing
+wey-80-blue-mountain.jpg   —   Wey 80 Blue Mountain
+nio-es6.jpg   —   Nio ES6
+nio-et5-touring.jpg   —   Nio ET5 Touring
+nio-es8.jpg   —   Nio ES8
+xpeng-g6-max.jpg   —   Xpeng G6 Max
+xpeng-g9-performance.jpg   —   Xpeng G9 Performance
+xpeng-p7.jpg   —   Xpeng P7+
+leapmotor-c16.jpg   —   Leapmotor C16
+leapmotor-c11-ev.jpg   —   Leapmotor C11 EV
+onvo-l60.jpg   —   Onvo L60
+denza-d9-ev.jpg   —   Denza D9 EV
+denza-n7.jpg   —   Denza N7
+mg-hs-trophy.jpg   —   MG HS Trophy
+mg-cyberster.jpg   —   MG Cyberster
+mg-mg7.jpg   —   MG MG7
+tank-400-hi4-t.jpg   —   Tank 400 Hi4-T
+hongqi-hs7.jpg   —   Hongqi HS7
+hongqi-h5.jpg   —   Hongqi H5
+bestune-t90.jpg   —   Bestune T90
+forthing-t5-evo.jpg   —   Forthing T5 Evo
+zeekr-x.jpg   —   Zeekr X
+aito-m9.jpg   —   Aito M9
+
+=== Германия (73) ===
+bmw-x5-xdrive40i.jpg   —   BMW X5 xDrive40i
+bmw-x3-xdrive30i.jpg   —   BMW X3 xDrive30i
+bmw-520i-g60.jpg   —   BMW 520i G60
+bmw-330i-g20.jpg   —   BMW 330i G20
+bmw-x7-xdrive40i.jpg   —   BMW X7 xDrive40i
+bmw-i4-edrive40.jpg   —   BMW i4 eDrive40
+mercedes-benz-glc-300-4matic.jpg   —   Mercedes-Benz GLC 300 4MATIC
+mercedes-benz-e-200-w214.jpg   —   Mercedes-Benz E 200 W214
+mercedes-benz-gle-450-4matic.jpg   —   Mercedes-Benz GLE 450 4MATIC
+mercedes-benz-c-200-w206.jpg   —   Mercedes-Benz C 200 W206
+mercedes-benz-gls-450.jpg   —   Mercedes-Benz GLS 450
+mercedes-benz-v-300-d.jpg   —   Mercedes-Benz V 300 d
+audi-q5-45-tfsi.jpg   —   Audi Q5 45 TFSI
+audi-q7-55-tfsi.jpg   —   Audi Q7 55 TFSI
+audi-q8-55-tfsi.jpg   —   Audi Q8 55 TFSI
+audi-a6-45-tfsi.jpg   —   Audi A6 45 TFSI
+porsche-macan-s.jpg   —   Porsche Macan S
+porsche-cayenne-s.jpg   —   Porsche Cayenne S
+porsche-panamera-4.jpg   —   Porsche Panamera 4
+volkswagen-touareg-3-0-tdi.jpg   —   Volkswagen Touareg 3.0 TDI
+volkswagen-tiguan-2-0-tsi.jpg   —   Volkswagen Tiguan 2.0 TSI
+volkswagen-golf-gti.jpg   —   Volkswagen Golf GTI
+bmw-x1-xdrive23i.jpg   —   BMW X1 xDrive23i
+bmw-x6-xdrive40i.jpg   —   BMW X6 xDrive40i
+bmw-740i-g70.jpg   —   BMW 740i G70
+bmw-ix-xdrive50.jpg   —   BMW iX xDrive50
+bmw-m240i-xdrive.jpg   —   BMW M240i xDrive
+mercedes-benz-glb-200.jpg   —   Mercedes-Benz GLB 200
+mercedes-benz-gla-250-4matic.jpg   —   Mercedes-Benz GLA 250 4MATIC
+mercedes-benz-s-450-4matic.jpg   —   Mercedes-Benz S 450 4MATIC
+mercedes-benz-eqe-350.jpg   —   Mercedes-Benz EQE 350+
+audi-q3-45-tfsi.jpg   —   Audi Q3 45 TFSI
+audi-a5-sportback-40.jpg   —   Audi A5 Sportback 40
+audi-rs-6-avant.jpg   —   Audi RS 6 Avant
+audi-q6-e-tron.jpg   —   Audi Q6 e-tron
+porsche-911-carrera.jpg   —   Porsche 911 Carrera
+porsche-taycan-4s.jpg   —   Porsche Taycan 4S
+volkswagen-multivan-t7.jpg   —   Volkswagen Multivan T7
+volkswagen-arteon-2-0-tsi.jpg   —   Volkswagen Arteon 2.0 TSI
+smart-3-brabus.jpg   —   Smart #3 Brabus
+mercedes-benz-g-500.jpg   —   Mercedes-Benz G 500
+mercedes-benz-g-63-amg.jpg   —   Mercedes-Benz G 63 AMG
+mercedes-benz-cla-250-4matic.jpg   —   Mercedes-Benz CLA 250 4MATIC
+mercedes-benz-cls-450-4matic.jpg   —   Mercedes-Benz CLS 450 4MATIC
+mercedes-benz-glc-300-coupe.jpg   —   Mercedes-Benz GLC 300 Coupe
+mercedes-benz-eqs-450.jpg   —   Mercedes-Benz EQS 450+
+mercedes-benz-amg-c-63-s-e.jpg   —   Mercedes-Benz AMG C 63 S E
+mercedes-benz-maybach-gls-600.jpg   —   Mercedes-Benz Maybach GLS 600
+mercedes-benz-a-200.jpg   —   Mercedes-Benz A 200
+mercedes-benz-vito-tourer-119.jpg   —   Mercedes-Benz Vito Tourer 119
+porsche-718-cayman.jpg   —   Porsche 718 Cayman
+porsche-cayenne-coupe-gts.jpg   —   Porsche Cayenne Coupe GTS
+porsche-cayenne-turbo-gt.jpg   —   Porsche Cayenne Turbo GT
+porsche-911-turbo-s.jpg   —   Porsche 911 Turbo S
+porsche-macan-electric-4.jpg   —   Porsche Macan Electric 4
+porsche-panamera-turbo-s-e.jpg   —   Porsche Panamera Turbo S E
+porsche-taycan-cross-turismo-4.jpg   —   Porsche Taycan Cross Turismo 4
+audi-a3-sportback-35-tfsi.jpg   —   Audi A3 Sportback 35 TFSI
+audi-a4-avant-40-tfsi.jpg   —   Audi A4 Avant 40 TFSI
+audi-a7-sportback-55-tfsi.jpg   —   Audi A7 Sportback 55 TFSI
+audi-a8-l-55-tfsi.jpg   —   Audi A8 L 55 TFSI
+audi-rs-q8.jpg   —   Audi RS Q8
+audi-sq7-tfsi.jpg   —   Audi SQ7 TFSI
+audi-s5-coupe.jpg   —   Audi S5 Coupe
+audi-q8-e-tron-55.jpg   —   Audi Q8 e-tron 55
+bmw-m5-g90.jpg   —   BMW M5 G90
+bmw-x4-xdrive30i.jpg   —   BMW X4 xDrive30i
+bmw-z4-m40i.jpg   —   BMW Z4 M40i
+bmw-ix3.jpg   —   BMW iX3
+volkswagen-amarok-3-0-tdi.jpg   —   Volkswagen Amarok 3.0 TDI
+volkswagen-touareg-r-ehybrid.jpg   —   Volkswagen Touareg R eHybrid
+volkswagen-t-roc-1-5-tsi.jpg   —   Volkswagen T-Roc 1.5 TSI
+volkswagen-id-4-pro.jpg   —   Volkswagen ID.4 Pro
+
+=== Южная Корея (12) ===
+kia-sorento-2-5t.jpg   —   Kia Sorento 2.5T
+kia-carnival-3-5.jpg   —   Kia Carnival 3.5
+hyundai-palisade-3-8.jpg   —   Hyundai Palisade 3.8
+hyundai-santa-fe-mx5.jpg   —   Hyundai Santa Fe MX5
+genesis-gv80-3-5t.jpg   —   Genesis GV80 3.5T
+genesis-g80-2-5t.jpg   —   Genesis G80 2.5T
+kia-ev9-gt-line.jpg   —   Kia EV9 GT-Line
+kia-k8-3-5.jpg   —   Kia K8 3.5
+kia-sportage-1-6t.jpg   —   Kia Sportage 1.6T
+hyundai-ioniq-5-awd.jpg   —   Hyundai Ioniq 5 AWD
+hyundai-staria-2-2d.jpg   —   Hyundai Staria 2.2d
+genesis-gv70-3-5t.jpg   —   Genesis GV70 3.5T
+
+=== Япония (20) ===
+toyota-land-cruiser-300.jpg   —   Toyota Land Cruiser 300
+toyota-rav4-2-5-hybrid.jpg   —   Toyota RAV4 2.5 Hybrid
+toyota-camry-2-5.jpg   —   Toyota Camry 2.5
+lexus-rx-350-f-sport.jpg   —   Lexus RX 350 F Sport
+lexus-lx-600.jpg   —   Lexus LX 600
+mazda-cx-5-2-5.jpg   —   Mazda CX-5 2.5
+subaru-forester-2-5.jpg   —   Subaru Forester 2.5
+nissan-x-trail-2-0.jpg   —   Nissan X-Trail 2.0
+toyota-alphard-2-5-hybrid.jpg   —   Toyota Alphard 2.5 Hybrid
+toyota-land-cruiser-prado-250.jpg   —   Toyota Land Cruiser Prado 250
+toyota-highlander-2-4t.jpg   —   Toyota Highlander 2.4T
+toyota-hilux-2-8d.jpg   —   Toyota Hilux 2.8d
+lexus-lm-350h.jpg   —   Lexus LM 350h
+lexus-nx-350h.jpg   —   Lexus NX 350h
+honda-cr-v-1-5t.jpg   —   Honda CR-V 1.5T
+honda-accord-2-0-hybrid.jpg   —   Honda Accord 2.0 Hybrid
+nissan-patrol-5-6.jpg   —   Nissan Patrol 5.6
+mitsubishi-outlander-2-5.jpg   —   Mitsubishi Outlander 2.5
+mazda-cx-60-3-3d.jpg   —   Mazda CX-60 3.3d
+subaru-outback-2-5.jpg   —   Subaru Outback 2.5
+
+=== США (23) ===
+ford-f-150-lariat.jpg   —   Ford F-150 Lariat
+ford-bronco-wildtrak.jpg   —   Ford Bronco Wildtrak
+ford-mustang-gt.jpg   —   Ford Mustang GT
+ford-explorer-st.jpg   —   Ford Explorer ST
+chevrolet-tahoe-high-country.jpg   —   Chevrolet Tahoe High Country
+chevrolet-camaro-ss.jpg   —   Chevrolet Camaro SS
+chevrolet-silverado-ltz.jpg   —   Chevrolet Silverado LTZ
+chevrolet-corvette-c8.jpg   —   Chevrolet Corvette C8
+dodge-ram-1500-limited.jpg   —   Dodge RAM 1500 Limited
+dodge-durango-r-t.jpg   —   Dodge Durango R/T
+dodge-challenger-r-t.jpg   —   Dodge Challenger R/T
+jeep-grand-cherokee-l.jpg   —   Jeep Grand Cherokee L
+jeep-wrangler-rubicon.jpg   —   Jeep Wrangler Rubicon
+jeep-gladiator-mojave.jpg   —   Jeep Gladiator Mojave
+tesla-model-y-long-range.jpg   —   Tesla Model Y Long Range
+tesla-model-3-performance.jpg   —   Tesla Model 3 Performance
+tesla-model-x-plaid.jpg   —   Tesla Model X Plaid
+cadillac-escalade-sport.jpg   —   Cadillac Escalade Sport
+cadillac-xt6-premium.jpg   —   Cadillac XT6 Premium
+gmc-sierra-denali.jpg   —   GMC Sierra Denali
+gmc-yukon-denali.jpg   —   GMC Yukon Denali
+lincoln-navigator-reserve.jpg   —   Lincoln Navigator Reserve
+chrysler-pacifica-pinnacle.jpg   —   Chrysler Pacifica Pinnacle
+
+=== Казахстан (11) ===
+toyota-camry-3-5-executive.jpg   —   Toyota Camry 3.5 Executive
+toyota-land-cruiser-300-gr.jpg   —   Toyota Land Cruiser 300 GR
+toyota-rav4-2-0.jpg   —   Toyota RAV4 2.0
+hyundai-tucson-2-5.jpg   —   Hyundai Tucson 2.5
+hyundai-sonata-2-5.jpg   —   Hyundai Sonata 2.5
+kia-sorento-2-2d.jpg   —   Kia Sorento 2.2d
+mercedes-benz-gle-300-d.jpg   —   Mercedes-Benz GLE 300 d
+bmw-x5-30d.jpg   —   BMW X5 30d
+volkswagen-polo-1-6.jpg   —   Volkswagen Polo 1.6
+chevrolet-tracker-1-2t.jpg   —   Chevrolet Tracker 1.2T
+chery-tiggo-4-pro.jpg   —   Chery Tiggo 4 Pro
+
+=== Кыргызстан (10) ===
+audi-q7-3-0-tdi.jpg   —   Audi Q7 3.0 TDI
+audi-a6-45-tdi.jpg   —   Audi A6 45 TDI
+mercedes-benz-e-220-d-w213.jpg   —   Mercedes-Benz E 220 d W213
+mercedes-benz-sprinter-316-cdi.jpg   —   Mercedes-Benz Sprinter 316 CDI
+bmw-520d-g30.jpg   —   BMW 520d G30
+volkswagen-passat-b8-2-0-tdi.jpg   —   Volkswagen Passat B8 2.0 TDI
+skoda-kodiaq-2-0-tdi.jpg   —   Skoda Kodiaq 2.0 TDI
+toyota-highlander-3-5.jpg   —   Toyota Highlander 3.5
+lexus-rx-300.jpg   —   Lexus RX 300
+hyundai-santa-fe-2-2d.jpg   —   Hyundai Santa Fe 2.2d
+
+=== Беларусь (10) ===
+volkswagen-tiguan-2-0-tdi.jpg   —   Volkswagen Tiguan 2.0 TDI
+volkswagen-caddy-2-0-tdi.jpg   —   Volkswagen Caddy 2.0 TDI
+skoda-superb-2-0-tsi.jpg   —   Skoda Superb 2.0 TSI
+bmw-x3-20d-g01.jpg   —   BMW X3 20d G01
+mercedes-benz-glc-220-d.jpg   —   Mercedes-Benz GLC 220 d
+audi-q5-40-tdi.jpg   —   Audi Q5 40 TDI
+renault-duster-1-3t.jpg   —   Renault Duster 1.3T
+peugeot-3008-1-6t.jpg   —   Peugeot 3008 1.6T
+ford-kuga-2-0-ecoblue.jpg   —   Ford Kuga 2.0 EcoBlue
+opel-grandland-1-5d.jpg   —   Opel Grandland 1.5d
